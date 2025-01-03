@@ -54,7 +54,7 @@ public class Md5Crypt {
 
     /** The Identifier of the Apache variant. */
     static final String APR1_PREFIX = "$apr1$";
-
+// testing this
     /** The number of bytes of the final hash. */
     private static final int BLOCKSIZE = 16;
 
